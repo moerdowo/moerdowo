@@ -1,6 +1,8 @@
 ## Hi, I'm Frianto 👋
 
-Based in Bandung ↔ Bali | Building [Mayar.ID](http://mayar.id "Mayar.ID") and [Maia.ID](http://maia.id "Maia.ID")
+Based in Bandung ↔ Bali | Founder of [Mayar.ID](http://mayar.id "Mayar.ID") and [Maia.ID](http://maia.id "Maia.ID")
+
+Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 
 ------------
 
