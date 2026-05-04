@@ -14,3 +14,12 @@ Based in Bandung ↔ Bali | Building [Mayar.ID](http://mayar.id "Mayar.ID") and 
 - [Mayar Menu Bar](https://github.com/moerdowo/mayar-mac-menubar "Mayar Menu Bar") - A small native macOS menu-bar app that shows your Mayar balance
 - [Mayar Raycast](https://github.com/mayarid/mayar-raycast-extension "Mayar Raycast") - Raycast extension for Mayar to check balance (menu bar included)
 - [Tempo Mac](https://github.com/moerdowo/tempo-mac "Tempo Mac") - A native macOS app for the Tempo wallet + service wrapper
+
+------------
+
+░▒▓█▓▒░░▒▓█▓▒░ ▓█▒░▓ ░▒▓█▓▒░░▒▓█ 
+█▓▒░ ░▒▓█  █▓▒░▓█  ▓ █▓▒░ ░▒▓█  █
+▒▓█▓▒  ▓█▒░ ░▒▓█▓▒░  ▒▓█▓▒  ▓█▒░
+░ ▒▓█▓▒░ ▓█▓▒░░▒▓█▓ ░ ▒▓█▓▒░ ▓█▓▒
+▓█▒░ ░▒▓█▓▒░ ░▒▓█  ▒ ▓█▒░ ░▒▓█▓▒░
+░▒▓█  ▒ ▓█▒░ ░▒▓█▓▒░
