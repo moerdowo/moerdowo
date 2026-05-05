@@ -1,3 +1,6 @@
+<img width="1400" height="350" alt="1694858378561" src="https://github.com/user-attachments/assets/17555548-604a-4bd2-af74-9b548a85bcfd" />
+
+
 ## Hi, I'm Frianto 👋
 
 Based in Bandung ↔ Bali | Founder of [Mayar.ID](http://mayar.id "Mayar.ID") and [Maia.ID](http://maia.id "Maia.ID")
