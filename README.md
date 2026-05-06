@@ -20,6 +20,7 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 🕹️ [Mayar Raycast](https://github.com/mayarid/mayar-raycast-extension "Mayar Raycast") - Raycast extension for Mayar to check balance (menu bar included)
 - 👛 [Tempo Mac](https://github.com/moerdowo/tempo-mac "Tempo Mac") - A native macOS app for the Tempo wallet + service wrapper
 - ⚡ [Minpaw](https://github.com/moerdowo/Minpaw) - A native macOS MP3 player built with SwiftUI and AVAudioEngine. Classic Winamp three-panel aesthetic.
+- ⬇️ [Mindown](https://github.com/moerdowo/mindown) - Native macOS video/audio downloader with classic-Winamp UI and an AI assistant
 
 ------------
 
