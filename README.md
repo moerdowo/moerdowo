@@ -22,7 +22,7 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - ⚡ [Minpaw](https://github.com/moerdowo/Minpaw) - A native macOS MP3 player built with SwiftUI and AVAudioEngine. Classic Winamp three-panel aesthetic.
 - ⬇️ [Mindown](https://github.com/moerdowo/mindown) - Native macOS video/audio downloader with classic-Winamp UI and an AI assistant
 - 🔍 [Minmeta](https://github.com/moerdowo/Minmeta) - Native macOS app that completes ID3 / iTunes audio metadata using iTunes API and AI
-- 🦜 [Mindown-cli](https://github.com/moerdowo/mindown-cli) - AI-driven CLI for downloading songs/videos via yt-dlp + ffmpeg, with iTunes Search + LRCLib metadata enrichment.
+- 🦜 [Mindown-cli](https://github.com/moerdowo/mindown-cli) - AI-driven CLI for downloading songs/videos via yt-dlp + ffmpeg, with metadata enrichment.
 ------------
 
 ░▒▓█▓▒░░▒▓█▓▒░ ▓█▒░▓ ░▒▓█▓▒░░▒▓█ 
