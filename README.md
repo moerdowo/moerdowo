@@ -24,6 +24,8 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 🔍 [Minmeta](https://github.com/moerdowo/Minmeta) - Native macOS app that completes ID3 / iTunes audio metadata using iTunes API and AI
 - 🦜 [Mindown-cli](https://github.com/moerdowo/mindown-cli) - AI-driven CLI for downloading songs/videos via yt-dlp + ffmpeg, with metadata enrichment.
 - 🦅 [Minpaw TUI](https://github.com/moerdowo/minpawtui) - A keyboard-driven, Winamp-style classic MP3 player for your terminal.
+- 📖 [Readpaw](https://github.com/moerdowo/Readpaw) - A clean native macOS reader for ebooks (epub, mobi, pdf, cbr, cbz).
+
 ------------
 
 ░▒▓█▓▒░░▒▓█▓▒░ ▓█▒░▓ ░▒▓█▓▒░░▒▓█ 
