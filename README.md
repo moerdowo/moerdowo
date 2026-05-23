@@ -25,6 +25,8 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 🦜 [Mindown-cli](https://github.com/moerdowo/mindown-cli) - AI-driven CLI for downloading songs/videos via yt-dlp + ffmpeg, with metadata enrichment.
 - 🦅 [Minpaw TUI](https://github.com/moerdowo/minpawtui) - A keyboard-driven, Winamp-style classic MP3 player for your terminal.
 - 📖 [Readpaw](https://github.com/moerdowo/Readpaw) - A clean native macOS reader for ebooks (epub, mobi, pdf, cbr, cbz).
+- 🌅 [Fal Mac](https://github.com/moerdowo/fal-mac) - Native macOS SwiftUI app for fal.ai
+- 📩 [MailBackup](https://github.com/moerdowo/mailbackup) - Archive and back up your email locally over IMAP
 
 ------------
 
