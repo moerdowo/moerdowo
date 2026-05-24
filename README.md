@@ -27,6 +27,7 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 📖 [Readpaw](https://github.com/moerdowo/Readpaw) - A clean native macOS reader for ebooks (epub, mobi, pdf, cbr, cbz).
 - 🌅 [Fal Mac](https://github.com/moerdowo/fal-mac) - Native macOS SwiftUI app for fal.ai
 - 📩 [MailBackup](https://github.com/moerdowo/mailbackup) - Archive and back up your email locally over IMAP
+- 🎵 [Minpod](https://github.com/moerdowo/Minpod) - A modern macOS music manager for click-wheel iPods (Video / Classic / nano)
 
 ------------
 
