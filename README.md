@@ -28,6 +28,7 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 🌅 [Fal Mac](https://github.com/moerdowo/fal-mac) - Native macOS SwiftUI app for fal.ai
 - 📩 [MailBackup](https://github.com/moerdowo/mailbackup) - Archive and back up your email locally over IMAP
 - 🎵 [Minpod](https://github.com/moerdowo/Minpod) - A modern macOS music manager for click-wheel iPods (Video / Classic / nano)
+- 📮 [MMail](https://github.com/moerdowo/MMail) - A fast, No AI, privacy & keyboard-first email client for macOS.
 
 ------------
 
