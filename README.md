@@ -29,6 +29,7 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 📩 [MailBackup](https://github.com/moerdowo/mailbackup) - Archive and back up your email locally over IMAP
 - 🎵 [Minpod](https://github.com/moerdowo/Minpod) - A modern macOS music manager for click-wheel iPods (Video / Classic / nano)
 - 📮 [MMail](https://github.com/moerdowo/MMail) - A fast, No AI, privacy & keyboard-first email client for macOS.
+- 🪟 [MacTuak](https://github.com/moerdowo/MacTuak) - Native macOS app to run Windows apps with Wine (Wine Wrapper)
 
 ------------
 
