@@ -31,6 +31,7 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 📮 [MMail](https://github.com/moerdowo/MMail) - A fast, No AI, privacy & keyboard-first email client for macOS.
 - 🪟 [MacTuak](https://github.com/moerdowo/MacTuak) - Native macOS app to run Windows apps with Wine (Wine Wrapper)
 - 🔈 [MacOmniVoice](https://github.com/moerdowo/MacOmniVoice) - Native macOS SwiftUI app for k2-fsa OmniVoice — zero-shot voice cloning across 600+ languages.
+- 🎤 [MacVoxCPM](https://github.com/moerdowo/MacVoxCPM) - Native macOS app for VoxCPM2 — tokenizer-free multilingual text-to-speech.
 
 ------------
 
