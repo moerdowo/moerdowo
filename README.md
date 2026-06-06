@@ -32,6 +32,7 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 🪟 [MacTuak](https://github.com/moerdowo/MacTuak) - Native macOS app to run Windows apps with Wine (Wine Wrapper)
 - 🔈 [MacOmniVoice](https://github.com/moerdowo/MacOmniVoice) - Native macOS SwiftUI app for k2-fsa OmniVoice — zero-shot voice cloning across 600+ languages.
 - 🎤 [MacVoxCPM](https://github.com/moerdowo/MacVoxCPM) - Native macOS app for VoxCPM2 — tokenizer-free multilingual text-to-speech.
+- 🗾 [MapToPosterMac](https://github.com/moerdowo/MapToPosterMac) - Native macOS app that turns any city into a minimalist OpenStreetMap poster.
 
 ------------
 
