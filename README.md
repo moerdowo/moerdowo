@@ -42,7 +42,3 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 ░ ▒▓█▓▒░ ▓█▓▒░░▒▓█▓ ░ ▒▓█▓▒░ ▓█▓▒
 ▓█▒░ ░▒▓█▓▒░ ░▒▓█  ▒ ▓█▒░ ░▒▓█▓▒░
 ░▒▓█  ▒
-
-## License
-
-Released under the [MIT License](LICENSE).
