@@ -34,6 +34,7 @@ Back to Building with the help of Openclaw, Hermes, Codex and Claude 😎
 - 🎤 [MacVoxCPM](https://github.com/moerdowo/MacVoxCPM) - Native macOS app for VoxCPM2 — tokenizer-free multilingual text-to-speech.
 - 🗾 [MapToPosterMac](https://github.com/moerdowo/MapToPosterMac) - Native macOS app that turns any city into a minimalist OpenStreetMap poster.
 - 🔥 [MadMac](https://github.com/moerdowo/MadMac) - Manage Meta ads natively on macOS + AI Insight
+- 👁️‍🗨️ [MayarMTS](https://github.com/moerdowo/MayarMTS) - A dashboard for monitoring Mayar transactions in real time. Built for wall monitor/display.
 
 ------------
 
